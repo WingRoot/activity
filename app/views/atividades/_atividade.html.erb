@@ -1,0 +1,9 @@
+<tr>
+	<td> <%= atividade.tempo %> </td>
+	<td> <%= atividade.tipo %> </td>
+	<td> <%= atividade.data %> </td>
+	<td> <%= link_to "Editar", edit_atividade_path(atividade) %> </td>
+    <td> <%= link_to "Excluir", delete_atividade_path(atividade),
+    			method: :delete,
+    			data: { confirm: "Quer realmente excluir #{atividade.tipo}?" } %> </td>
+</tr>
