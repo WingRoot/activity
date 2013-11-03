@@ -4502,3 +4502,481 @@ Connecting to database specified by database.yml
   [1m[35m (1.6ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
   [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
   [1m[35m (1.7ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (2.5ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.5ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.7ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (5.5ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (5.0ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.5ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.1ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.6ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.2ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (1.9ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.4ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.6ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.5ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (7.0ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.8ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.1ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (2.4ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.2ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (2.1ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.4ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.1ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.7ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.5ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (2.0ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.4ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.8ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.2ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (2.0ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.5ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.6ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.5ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (2.1ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.9ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.1ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (2.2ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (2.5ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (1.9ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.4ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.4ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.2ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+  [1m[36m (1.6ms)[0m  [1mDELETE FROM "atividades";[0m
+  [1m[35m (0.1ms)[0m  SELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';
+  [1m[36m (1.7ms)[0m  [1mDELETE FROM sqlite_sequence where name = 'atividades';[0m
+  [1m[35m (1.1ms)[0m  DELETE FROM "atividades";
+  [1m[36m (0.1ms)[0m  [1mSELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';[0m
+  [1m[35m (0.1ms)[0m  DELETE FROM sqlite_sequence where name = 'atividades';
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (1.9ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.5ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (6.5ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.3ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+  [1m[36m (1.5ms)[0m  [1mDELETE FROM "atividades";[0m
+  [1m[35m (0.1ms)[0m  SELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';
+  [1m[36m (0.1ms)[0m  [1mDELETE FROM sqlite_sequence where name = 'atividades';[0m
+  [1m[35m (1.7ms)[0m  DELETE FROM "atividades";
+  [1m[36m (0.1ms)[0m  [1mSELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';[0m
+  [1m[35m (0.1ms)[0m  DELETE FROM sqlite_sequence where name = 'atividades';
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-03 14:45:58 -0200
+Connecting to database specified by database.yml
+Processing by ExercicioController#principal as HTML
+  [1m[36mAtividade Load (0.1ms)[0m  [1mSELECT "atividades".* FROM "atividades" [0m
+  Rendered atividades/_form.html.erb (203.6ms)
+  Rendered collection (0.0ms)
+  Rendered exercicio/principal.html.erb within layouts/application (211.4ms)
+Compiled jquery.js  (2ms)  (pid 32148)
+Compiled jquery_ujs.js  (0ms)  (pid 32148)
+Compiled application.js  (49ms)  (pid 32148)
+Completed 200 OK in 372ms (Views: 320.4ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-03 14:45:59 -0200
+Served asset /application.css - 304 Not Modified (16ms)
+
+
+Started GET "/assets/simple_form.css?body=1" for 127.0.0.1 at 2013-11-03 14:45:59 -0200
+Served asset /simple_form.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-03 14:45:59 -0200
+Served asset /jquery_ujs.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/exercicio.css?body=1" for 127.0.0.1 at 2013-11-03 14:45:59 -0200
+Served asset /exercicio.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-03 14:45:59 -0200
+Served asset /jquery.js - 304 Not Modified (47ms)
+
+
+Started GET "/assets/atividades.css?body=1" for 127.0.0.1 at 2013-11-03 14:45:59 -0200
+Served asset /atividades.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/atividades.js?body=1" for 127.0.0.1 at 2013-11-03 14:45:59 -0200
+Served asset /atividades.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/exercicio.js?body=1" for 127.0.0.1 at 2013-11-03 14:45:59 -0200
+Served asset /exercicio.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-03 14:45:59 -0200
+Served asset /application.js - 304 Not Modified (14ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-03 14:46:05 -0200
+Processing by ExercicioController#principal as HTML
+  [1m[35mAtividade Load (0.5ms)[0m  SELECT "atividades".* FROM "atividades" 
+  Rendered atividades/_form.html.erb (12.3ms)
+  Rendered collection (0.0ms)
+  Rendered exercicio/principal.html.erb within layouts/application (13.5ms)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:05 -0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/atividades.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:05 -0200
+Served asset /atividades.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/exercicio.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:05 -0200
+Served asset /exercicio.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:05 -0200
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:05 -0200
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/atividades.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:05 -0200
+Served asset /atividades.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/exercicio.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:05 -0200
+Served asset /exercicio.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:05 -0200
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started POST "/atividades" for 127.0.0.1 at 2013-11-03 14:46:12 -0200
+Processing by AtividadesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"XM/DmTQ1oGVgj1M3OJyV7ZGrV77MoEr+JM/lBauF7bY=", "atividade"=>{"tempo"=>"12", "tipo"=>"afadf", "data(1i)"=>"2013", "data(2i)"=>"11", "data(3i)"=>"3"}, "commit"=>"Create Atividade"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (33.0ms)[0m  INSERT INTO "atividades" ("created_at", "data", "tempo", "tipo", "updated_at") VALUES (?, ?, ?, ?, ?)  [["created_at", Sun, 03 Nov 2013 16:46:12 UTC +00:00], ["data", Sun, 03 Nov 2013], ["tempo", 12], ["tipo", "afadf"], ["updated_at", Sun, 03 Nov 2013 16:46:12 UTC +00:00]]
+  [1m[36m (1.4ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 39ms (ActiveRecord: 34.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-03 14:46:12 -0200
+Processing by ExercicioController#principal as HTML
+  [1m[35mAtividade Load (0.2ms)[0m  SELECT "atividades".* FROM "atividades" 
+  Rendered atividades/_form.html.erb (10.0ms)
+  Rendered atividades/_atividade.html.erb (1.6ms)
+  Rendered exercicio/principal.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 21ms (Views: 19.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:12 -0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:12 -0200
+Served asset /jquery.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/exercicio.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:12 -0200
+Served asset /exercicio.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/atividades.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:12 -0200
+Served asset /atividades.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:12 -0200
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/atividades.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:12 -0200
+Served asset /atividades.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/exercicio.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:12 -0200
+Served asset /exercicio.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:12 -0200
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started POST "/atividades" for 127.0.0.1 at 2013-11-03 14:46:17 -0200
+Processing by AtividadesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"XM/DmTQ1oGVgj1M3OJyV7ZGrV77MoEr+JM/lBauF7bY=", "atividade"=>{"tempo"=>"34", "tipo"=>"asdfasdf", "data(1i)"=>"2013", "data(2i)"=>"11", "data(3i)"=>"3"}, "commit"=>"Create Atividade"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "atividades" ("created_at", "data", "tempo", "tipo", "updated_at") VALUES (?, ?, ?, ?, ?)  [["created_at", Sun, 03 Nov 2013 16:46:17 UTC +00:00], ["data", Sun, 03 Nov 2013], ["tempo", 34], ["tipo", "asdfasdf"], ["updated_at", Sun, 03 Nov 2013 16:46:17 UTC +00:00]]
+  [1m[36m (6.4ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 10ms (ActiveRecord: 6.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-03 14:46:17 -0200
+Processing by ExercicioController#principal as HTML
+  [1m[35mAtividade Load (0.2ms)[0m  SELECT "atividades".* FROM "atividades" 
+  Rendered atividades/_form.html.erb (41.9ms)
+  Rendered atividades/_atividade.html.erb (1.5ms)
+  Rendered exercicio/principal.html.erb within layouts/application (45.0ms)
+Completed 200 OK in 52ms (Views: 51.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:17 -0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/atividades.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:17 -0200
+Served asset /atividades.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/exercicio.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:17 -0200
+Served asset /exercicio.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:17 -0200
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:17 -0200
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/atividades.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:17 -0200
+Served asset /atividades.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/exercicio.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:17 -0200
+Served asset /exercicio.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:17 -0200
+Served asset /application.js - 304 Not Modified (1ms)
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (1.9ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.4ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.5ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+  [1m[36m (1.7ms)[0m  [1mDELETE FROM "atividades";[0m
+  [1m[35m (0.1ms)[0m  SELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';
+  [1m[36m (1.5ms)[0m  [1mDELETE FROM sqlite_sequence where name = 'atividades';[0m
+  [1m[35m (1.2ms)[0m  DELETE FROM "atividades";
+  [1m[36m (0.1ms)[0m  [1mSELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';[0m
+  [1m[35m (0.1ms)[0m  DELETE FROM sqlite_sequence where name = 'atividades';
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-03 14:46:37 -0200
+Processing by ExercicioController#principal as HTML
+  [1m[36mAtividade Load (0.2ms)[0m  [1mSELECT "atividades".* FROM "atividades" [0m
+  Rendered atividades/_form.html.erb (22.7ms)
+  Rendered collection (0.0ms)
+  Rendered exercicio/principal.html.erb within layouts/application (23.9ms)
+Completed 200 OK in 32ms (Views: 30.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:37 -0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/atividades.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:37 -0200
+Served asset /atividades.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/atividades.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:37 -0200
+Served asset /atividades.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:37 -0200
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/exercicio.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:37 -0200
+Served asset /exercicio.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:37 -0200
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/exercicio.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:37 -0200
+Served asset /exercicio.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:37 -0200
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-03 14:46:40 -0200
+Processing by ExercicioController#principal as HTML
+  [1m[35mAtividade Load (0.2ms)[0m  SELECT "atividades".* FROM "atividades" 
+  Rendered atividades/_form.html.erb (40.0ms)
+  Rendered collection (0.0ms)
+  Rendered exercicio/principal.html.erb within layouts/application (41.0ms)
+Completed 200 OK in 48ms (Views: 47.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:40 -0200
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/atividades.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:40 -0200
+Served asset /atividades.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:40 -0200
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/exercicio.css?body=1" for 127.0.0.1 at 2013-11-03 14:46:40 -0200
+Served asset /exercicio.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:40 -0200
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/atividades.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:40 -0200
+Served asset /atividades.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/exercicio.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:40 -0200
+Served asset /exercicio.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-03 14:46:40 -0200
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-03 14:51:34 -0200
+Processing by ExercicioController#principal as HTML
+  [1m[36mAtividade Load (0.2ms)[0m  [1mSELECT "atividades".* FROM "atividades" [0m
+  Rendered atividades/_form.html.erb (14.1ms)
+  Rendered collection (0.0ms)
+  Rendered exercicio/principal.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 23ms (Views: 22.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-03 14:51:34 -0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/atividades.css?body=1" for 127.0.0.1 at 2013-11-03 14:51:34 -0200
+Served asset /atividades.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/exercicio.css?body=1" for 127.0.0.1 at 2013-11-03 14:51:34 -0200
+Served asset /exercicio.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-03 14:51:34 -0200
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-03 14:51:34 -0200
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/atividades.js?body=1" for 127.0.0.1 at 2013-11-03 14:51:34 -0200
+Served asset /atividades.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/exercicio.js?body=1" for 127.0.0.1 at 2013-11-03 14:51:34 -0200
+Served asset /exercicio.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-03 14:51:34 -0200
+Served asset /application.js - 304 Not Modified (1ms)
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (2.0ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (3.2ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.1ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (2.4ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.7ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+  [1m[36m (1.6ms)[0m  [1mDELETE FROM "atividades";[0m
+  [1m[35m (0.1ms)[0m  SELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';
+  [1m[36m (0.1ms)[0m  [1mDELETE FROM sqlite_sequence where name = 'atividades';[0m
+  [1m[35m (1.6ms)[0m  DELETE FROM "atividades";
+  [1m[36m (0.1ms)[0m  [1mSELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';[0m
+  [1m[35m (0.1ms)[0m  DELETE FROM sqlite_sequence where name = 'atividades';
+  [1m[36m (1.2ms)[0m  [1mDELETE FROM "atividades";[0m
+  [1m[35m (0.2ms)[0m  SELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';
+  [1m[36m (0.1ms)[0m  [1mDELETE FROM sqlite_sequence where name = 'atividades';[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (2.0ms)[0m  [1mCREATE TABLE "atividades" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tempo" integer, "tipo" varchar(255), "data" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.9ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (4.2ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.4ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20131102133358')
+Connecting to database specified by database.yml
+  [1m[36m (2.0ms)[0m  [1mDELETE FROM "atividades";[0m
+  [1m[35m (0.2ms)[0m  SELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';
+  [1m[36m (0.1ms)[0m  [1mDELETE FROM sqlite_sequence where name = 'atividades';[0m
+  [1m[35m (1.7ms)[0m  DELETE FROM "atividades";
+  [1m[36m (0.1ms)[0m  [1mSELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';[0m
+  [1m[35m (0.1ms)[0m  DELETE FROM sqlite_sequence where name = 'atividades';
+  [1m[36m (1.2ms)[0m  [1mDELETE FROM "atividades";[0m
+  [1m[35m (0.1ms)[0m  SELECT name FROM sqlite_master WHERE type='table' AND name='sqlite_sequence';
+  [1m[36m (0.1ms)[0m  [1mDELETE FROM sqlite_sequence where name = 'atividades';[0m
