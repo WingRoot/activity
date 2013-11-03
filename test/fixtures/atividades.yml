@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  tempo: 1
+  tipo: MyString
+  data: 2013-11-02
+
+two:
+  tempo: 1
+  tipo: MyString
+  data: 2013-11-02
