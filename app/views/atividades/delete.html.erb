@@ -1,0 +1,9 @@
+<h2> <%= @atividade.tipo %></h2>
+<span> <%= number_to_currency @atividade.tempo,
+		   delimiter: ".",
+		   separator: ",",
+		   unit: "-"  %> </span>
+<span> <%= @atividade.data %> </span>
+
+<br /> <br />
+<%= link_to "Cancelar", root_path %>
