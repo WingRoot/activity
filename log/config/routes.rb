@@ -1,4 +1,6 @@
 Log::Application.routes.draw do
+  get "exercicio/principal"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

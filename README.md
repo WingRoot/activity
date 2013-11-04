@@ -1,10 +1,11 @@
 logExercicio
 ============
 
-Log Exercicios
+Exercicios
+============
 
 
-logQuakeArena
+logQuake
 ============
 
 Ler o log gerado por Quake Arena carregando informações como:
