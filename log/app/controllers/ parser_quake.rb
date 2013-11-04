@@ -404,4 +404,4 @@ private
         
 end
 
-#parser = ParserLogQuake.new('games.log.original.txt')
+parser = ParserLogQuake.new('games.log')

@@ -1,10 +1,13 @@
-logExercicio
+Exercicios
 ============
+The solution the exercicio have these features:
 
-Log Exercicios
+A place to insert workout items of exercicios.
+A table with the items.
+A button to remove items.
+A counter with the total exercised hours.
 
-
-logQuakeArena
+logQuake
 ============
 
 Ler o log gerado por Quake Arena carregando informações como:
