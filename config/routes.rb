@@ -1,4 +1,6 @@
 Teste::Application.routes.draw do
+  devise_for :users
+
   get "exercicio/principal"
 
   resources :atividades, except: [:index, :new, :show, :destroy]

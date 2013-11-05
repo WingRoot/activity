@@ -1,6 +1,9 @@
 <h2> Log Exercicios</h1>
-<%= notice %>
-<%= render partial: "atividades/form" %>
+<p><%= notice %></p>
+<p><%= alert %></p>
+<% if user_signed_in? %>
+	<%= render partial: "atividades/form" %>
+<% end %>
 <table>
 	<tr>
 		<th> Tempo </th>

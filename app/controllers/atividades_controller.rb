@@ -1,6 +1,6 @@
 #encoding: utf-8
-
 class AtividadesController < ApplicationController
+  before_filter :authenticate_user!, :exception => :index
 
   def create
   	atividade = Atividade.new params[:atividade]
