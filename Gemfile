@@ -18,7 +18,7 @@ group :assets do
   gem "therubyracer"
   gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
   gem "twitter-bootstrap-rails"
-
+  
 end
 
 gem 'jquery-rails'
@@ -29,6 +29,7 @@ group :test, :development do
 	gem "capybara"
 	gem "database_cleaner"
 	gem 'sqlite3'
+  gem 'mysql2'
 end
 
 group :production do
